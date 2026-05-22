@@ -1,7 +1,5 @@
 # Assignment 4: String Processing
 
-This C++ console program implements the Assignment 4 requirements:
-
 - Load text from an external file.
 - Enter text manually.
 - Search with Boyer-Moore.
